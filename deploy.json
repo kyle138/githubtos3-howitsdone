@@ -1,0 +1,7 @@
+{
+  "deploy": {
+    "type": "S3",
+    "target": "githubtos3.kylemunz.com"
+  }
+}
+
