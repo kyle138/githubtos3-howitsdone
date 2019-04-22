@@ -1,7 +1,7 @@
 {
   "deploy": {
-    "bananatype": "S3",
-    "target": {
+    "type": "S3",
+    "bananatarget": {
       "master": "githubtos3.kylemunz.com",
       "dev": "githubtos3-dev.kylemunz.com"
     }
