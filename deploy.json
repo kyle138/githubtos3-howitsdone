@@ -2,8 +2,8 @@
   "deploy": {
     "type": "S3",
     "target": {
-      "master": "githubtos3.kylemunz.com"
-
+      "master": "githubtos3.kylemunz.com",
+      "bananadev": "githubtos3-dev.kylemunz.com"
     }
   }
 }
