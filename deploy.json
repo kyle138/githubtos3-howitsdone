@@ -3,7 +3,7 @@
     "type": "S3",
     "target": {
       "master": "githubtos3.kylemunz.com",
-      "dev": "githubtos3-dev.kylemunz.com"
+      "dev": "bananagithubtos3-dev.kylemunz.com"
     }
   }
 }
