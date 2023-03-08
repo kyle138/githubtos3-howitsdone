@@ -1,10 +1,10 @@
 {
   "deploy": {
     "type": "S3",
+    "subdir": "testsubdir",
     "target": {
       "master": "githubtos3.kylemunz.com",
-      "dev": "githubtos3-dev.kylemunz.com",
-      "subdir": "testsubdir"
+      "dev": "githubtos3-dev.kylemunz.com"
     }
   }
 }
